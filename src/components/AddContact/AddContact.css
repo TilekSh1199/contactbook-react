@@ -1,0 +1,15 @@
+.block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.block input{
+    margin-bottom: 10px ;
+}
+
+.title{
+    text-align: center;
+}

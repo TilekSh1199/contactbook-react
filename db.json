@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "contact": "Тилек ",
+      "surname": "Шар",
+      "phone": "055580222",
+      "id": 4
+    },
+    {
+      "contact": "asdfasd",
+      "surname": "df",
+      "phone": "1212",
+      "id": 5
+    },
+    {
+      "contact": "begimay",
+      "surname": "kubanychbekova",
+      "phone": "098765432",
+      "id": 6
+    }
+  ]
+}
